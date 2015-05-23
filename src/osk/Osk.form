@@ -1,0 +1,1132 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="background" type="java.awt.Color" resourceKey="Form.background"/>
+    <Property name="name" type="java.lang.String" value="Form" noResource="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,1,-91,0,0,3,-67"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="0"/>
+    <SyntheticProperty name="generateSize" type="boolean" value="true"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <Events>
+    <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="extensionKeyPressed"/>
+  </Events>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="2"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace pref="811" max="32767" attributes="0"/>
+              <Component id="text" min="-2" pref="110" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="mainPanel" min="-2" pref="919" max="-2" attributes="0"/>
+              <EmptySpace pref="12" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="mainPanel" pref="327" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="text" min="-2" pref="30" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="mainPanel">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="mainPanel" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="extensionKeyPressed"/>
+      </Events>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="l3">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="l3" noResource="true"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="180" width="900" height="40"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="caps" min="-2" pref="99" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ち" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="と" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="し" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="は" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="き" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="く" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ま" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="の" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="り" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="れ" min="-2" pref="63" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="け" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="enter" pref="94" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                      <Component id="caps" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="け" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="れ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="り" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="の" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="ち" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="と" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="し" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="は" alignment="3" pref="38" max="32767" attributes="0"/>
+                      <Component id="き" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="く" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="ま" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="enter" alignment="3" pref="40" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="caps">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="caps.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="caps.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="caps" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3061;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3064;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3064;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3061;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3061;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3061;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3068;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3064;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3064;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3068;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3068;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3068;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3057;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3057;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="&#x3057;.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3057;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3057;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3057;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3057;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x306f;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3078;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3078;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x306f;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x306f;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x306f;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x304d;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3053;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3053;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x304d;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x304d;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x304d;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x304f;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3053;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3053;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x304f;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x304f;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x304f;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x307e;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x307e;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x307e;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x307e;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x307e;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x307e;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x306e;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x306a;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x306a;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x306e;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x306e;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x306e;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x308a;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x308a;.background"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x308a;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x308a;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x308a;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x308c;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x308a;.background"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x308c;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x308c;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x308c;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3051;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3053;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3053;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3051;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3051;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3051;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="enter">
+              <Properties>
+                <Property name="font" type="java.awt.Font" resourceKey="enter.font"/>
+                <Property name="text" type="java.lang.String" resourceKey="enter.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="enter.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="enter" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="jPanel2" noResource="true"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="130" width="900" height="40"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="tab" min="-2" pref="72" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="た" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                      <Component id="て" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="い" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="す" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="か" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ん" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="な" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="に" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ら" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="せ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="point" min="-2" pref="65" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="circle" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="む" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="た" alignment="0" pref="40" max="32767" attributes="0"/>
+                          <Component id="tab" alignment="1" pref="40" max="32767" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                              <Component id="て" alignment="3" pref="40" max="32767" attributes="0"/>
+                              <Component id="い" alignment="3" pref="40" max="32767" attributes="0"/>
+                              <Component id="す" alignment="3" pref="40" max="32767" attributes="0"/>
+                              <Component id="か" alignment="3" pref="39" max="32767" attributes="0"/>
+                              <Component id="ん" alignment="3" pref="40" max="32767" attributes="0"/>
+                              <Component id="な" alignment="3" pref="40" max="32767" attributes="0"/>
+                              <Component id="に" alignment="3" pref="40" max="32767" attributes="0"/>
+                              <Component id="ら" alignment="3" pref="40" max="32767" attributes="0"/>
+                              <Component id="せ" alignment="3" pref="40" max="32767" attributes="0"/>
+                              <Component id="point" alignment="3" pref="40" max="32767" attributes="0"/>
+                              <Component id="circle" alignment="3" pref="40" max="32767" attributes="0"/>
+                              <Component id="む" alignment="3" pref="40" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="tab">
+              <Properties>
+                <Property name="font" type="java.awt.Font" resourceKey="tab.font"/>
+                <Property name="text" type="java.lang.String" resourceKey="tab.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="tab.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="tab" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x305f;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3064;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3064;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x305f;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x305f;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x305f;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3044;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x304a;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x304a;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3044;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3044;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3044;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3066;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3064;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3064;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3066;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3066;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3066;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3059;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3057;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3057;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3059;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3059;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3059;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x304b;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3053;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3053;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x304b;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x304b;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x304b;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3093;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3093;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3093;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3093;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3093;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3093;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x306a;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x306a;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x306a;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x306a;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x306a;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x306a;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x306b;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x306a;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x306a;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x306b;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x306b;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x306b;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3089;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x308a;.background"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3089;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3089;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3089;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x305b;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3057;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3057;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x305b;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x305b;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x305b;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="point">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="point.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="point.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="point.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="point.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="point" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="circle">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="point.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="point.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="circle.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="circle.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="circle" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3080;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x307e;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x307e;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3080;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3080;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3080;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="l1">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="l1" noResource="true"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="80" width="900" height="-1"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="ろ" min="-2" pref="57" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ぬ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ふ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="あ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="う" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="え" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="お" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="や" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ゆ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="よ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="わ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ほ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="へ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="backspace" min="-2" pref="93" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="ぬ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="ふ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="あ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="う" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="え" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="お" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="や" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="ゆ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="よ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="わ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="ほ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="へ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="backspace" alignment="3" pref="40" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="ろ" alignment="0" pref="41" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="&#x308d;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x308a;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x308d;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x308d;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x308d;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x306c;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x306a;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x306a;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x306c;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x306c;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x306c;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3084;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3088;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3088;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3084;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3084;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3084;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x304a;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x304a;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x304a;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x304a;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x304a;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x304a;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3048;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x304a;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x304a;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3048;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3048;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3048;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3046;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x304a;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x304a;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3046;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3046;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3046;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3042;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x304a;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x304a;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3042;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3042;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3042;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3075;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3078;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3078;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3075;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3075;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3075;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3078;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3078;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3078;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3078;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3078;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3078;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x307b;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3078;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3078;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x307b;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x307b;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x307b;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x308f;">
+              <Properties>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x308f;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x308f;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x308f;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3088;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3088;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="&#x3088;.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3088;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3088;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3088;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3088;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3086;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3088;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="jButton23.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3088;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3086;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3086;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3086;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="backspace">
+              <Properties>
+                <Property name="font" type="java.awt.Font" resourceKey="backspace.font"/>
+                <Property name="text" type="java.lang.String" resourceKey="backspace.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="backspace.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="backspace" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="l4">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="l4" noResource="true"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="230" width="900" height="-1"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="shift1" min="-2" pref="123" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="つ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="さ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="そ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ひ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="こ" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="み" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="も" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ね" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="る" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="め" min="-2" pref="63" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="shift2" pref="123" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="shift1" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="め" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="る" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="ね" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="つ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="さ" alignment="3" pref="37" max="32767" attributes="0"/>
+                      <Component id="そ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="ひ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="こ" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="み" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="も" alignment="3" pref="40" max="32767" attributes="0"/>
+                      <Component id="shift2" alignment="3" pref="40" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="shift1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="shift1.text"/>
+                <Property name="name" type="java.lang.String" value="shift1" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3064;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3064;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3064;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3064;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3064;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3064;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3055;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3057;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3057;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3055;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3055;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3055;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x305d;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3057;.background"/>
+                <Property name="font" type="java.awt.Font" resourceKey="&#x305d;.font"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3057;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x305d;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x305d;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x305d;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3072;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3078;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3078;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3072;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3072;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3072;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3053;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x3053;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x3053;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3053;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3053;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3053;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x307f;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x307e;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x307e;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x307f;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x307f;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x307f;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3082;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x307e;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x307e;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3082;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3082;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3082;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x306d;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x306a;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x306a;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x306d;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x306d;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x306d;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x308b;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x308a;.background"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x308b;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x308b;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x308b;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="&#x3081;">
+              <Properties>
+                <Property name="background" type="java.awt.Color" resourceKey="&#x307e;.background"/>
+                <Property name="foreground" type="java.awt.Color" resourceKey="&#x307e;.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="&#x3081;.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="&#x3081;.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="&#x3081;" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="shift2">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="shift2.text"/>
+                <Property name="name" type="java.lang.String" value="shift2" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="l5">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="l5" noResource="true"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="280" width="900" height="-1"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="ctrl1" min="-2" pref="99" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="win" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="alt1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="space" min="-2" pref="391" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="alt2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="appl" min="-2" pref="124" max="-2" attributes="0"/>
+                      <EmptySpace pref="12" max="32767" attributes="0"/>
+                      <Component id="ctrl2" min="-2" pref="91" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="ctrl1" alignment="0" pref="40" max="32767" attributes="0"/>
+                  <Component id="win" alignment="0" pref="40" max="32767" attributes="0"/>
+                  <Component id="alt1" alignment="1" pref="40" max="32767" attributes="0"/>
+                  <Component id="space" alignment="1" pref="40" max="32767" attributes="0"/>
+                  <Component id="alt2" alignment="1" pref="40" max="32767" attributes="0"/>
+                  <Component id="appl" alignment="1" pref="40" max="32767" attributes="0"/>
+                  <Component id="ctrl2" alignment="1" pref="40" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="ctrl1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="ctrl1.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="ctrl1.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="ctrl1" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="win">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="win.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="win.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="win" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="alt1">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="alt1.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="alt1.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="alt1" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="space">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="space.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="space.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="space" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="alt2">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="alt2.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="alt2.actionCommand"/>
+                <Property name="name" type="java.lang.String" value="alt2" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="appl">
+              <Properties>
+                <Property name="text" type="java.lang.String" resourceKey="appl.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="appl.actionCommand"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="null"/>
+                </Property>
+                <Property name="name" type="java.lang.String" value="appl" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="ctrl2">
+              <Properties>
+                <Property name="font" type="java.awt.Font" resourceKey="ctrl2.font"/>
+                <Property name="text" type="java.lang.String" resourceKey="ctrl2.text"/>
+                <Property name="actionCommand" type="java.lang.String" resourceKey="ctrl2.actionCommand"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="null"/>
+                </Property>
+                <Property name="name" type="java.lang.String" value="ctrl2" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="keyPressAction"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="jScrollPane1" noResource="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="10" width="900" height="50"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="textArea">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" resourceKey="textArea.font"/>
+                <Property name="rows" type="int" value="1"/>
+                <Property name="name" type="java.lang.String" value="textArea" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="keyPressed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JTextField" name="text">
+      <Properties>
+        <Property name="font" type="java.awt.Font" resourceKey="text.font"/>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="name" type="java.lang.String" value="text" noResource="true"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
